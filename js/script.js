@@ -1,9 +1,5 @@
 const resultsContainer = document.querySelector(".details");
 const url = "https://breakingbadapi.com/api/characters/6";
-//const url = "https://zoo-animal-api.herokuapp.com/animals/rand/10"
-
-
-
 
 
 async function FetchCharacter() {
